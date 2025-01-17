@@ -1,8 +1,12 @@
 # 💫 About Me:
 Hi there! I'm Manoranjan Saha, a cybersecurity enthusiast 🛡️ and developer 🚀 with a passion for safeguarding the digital world. From ethical hacking 🕵️‍♂️ to building secure systems 💻, I thrive on solving challenges and staying ahead of threats.
+
 🌟 Skills: Penetration testing | Digital forensics | Network security
+
 🌱 Currently mastering: Malware analysis & cloud security ☁️
+
 💬 Let's collaborate to create secure and innovative solutions! 🎉
+
 ⚡ Fun fact: I’m a CTF (Capture The Flag) junkie! 🎯
 
 
